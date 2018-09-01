@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EVEN NUMBERS</string>
+    <string name="show_even_numbers">SHOW 10 EVEN NUMBERS</string>
+    <string name="textview">TextView</string>
+</resources>
